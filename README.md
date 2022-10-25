@@ -2,7 +2,9 @@
 <h3 align="center">3rd year Engineering Student</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<!---<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> --->
+<img align="right" alt="coding" width="400" src="https://www.windaydigital.com/wp-content/uploads/2020/12/39998-web-development.gif">
+
 
 
 <!--- Comment added for profile views as it is very very less
