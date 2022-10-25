@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Toshal Chaudhari</h1>
 <h3 align="center">3rd year Engineering Student</h3>
 
+
+<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
+
 <!--- Comment added for profile views as it is very very less
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtoshal&label=Profile%20views&color=0e75b6&style=flat" alt="iamtoshal" /> </p>
 --->
