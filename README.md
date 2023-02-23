@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamtoshal&label=Profile%20views&color=0e75b6&style=flat" alt="iamtoshal" /> </p>
 
 
-<!---<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> --->
+<!-- <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">  -->
 <img align="right" alt="coding" width="400" src="https://www.windaydigital.com/wp-content/uploads/2020/12/39998-web-development.gif">
 
 
