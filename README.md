@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toshal Chaudhari</h1>
-<h3 align="center">3rd year Engineering Student</h3>
+<h3 align="center">4th year Engineering Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamtoshal&label=Profile%20views&color=0e75b6&style=flat" alt="iamtoshal" /> </p>
 
