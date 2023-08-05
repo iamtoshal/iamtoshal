@@ -13,13 +13,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtoshal&label=Profile%20views&color=0e75b6&style=flat" alt="iamtoshal" /> </p>
 --->
 
-- 🔭 I’m currently working on **Distributed Learning Management System**
+- 🔭 I’m currently working on **StudyNotion-Learning Management System**
 
-- 🌱 I’m currently learning **Frontend using MERN stack**
+- 🌱 I’m currently learning **Full Stack using MERN stack**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 💬 Ask me about **HTML,CSS,Javascript & C++**
+- 💬 Ask me about **HTML,CSS,Javascript,ReactJS & C++**
 
 - 📫 How to reach me **toshalchaudhari02@gmail.com**
 
